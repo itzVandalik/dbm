@@ -3,4 +3,5 @@
 
 
 **Kullanım: /mcbaşarım (başarım ismi)**
+
 **Not: Aynı zamanda türkçeye özel harf kullanırsanız normalde hata vermesi gerekirken o sorun da çözülmüştür.**
