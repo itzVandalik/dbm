@@ -2,5 +2,5 @@
 
 
 
-Kullanım: /mcbaşarım (başarım ismi)
+**Kullanım: /mcbaşarım (başarım ismi)**
 
